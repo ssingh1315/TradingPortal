@@ -1,0 +1,3 @@
+# TradingPortal
+
+Trading portal project.
